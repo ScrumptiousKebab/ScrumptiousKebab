@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a **BSc Mathematics and Statistics student** at Queen Mary University of London, passionate about exploring the intersection of **finance**, **technology**, and **data science**. Currently working as an **Innovation Engineer at Schroders**, I am deeply interested in **Machine Learning (ML)**, **Artificial Intelligence (AI)**, **neural networks**, and **learning algorithms**.
+I'm a **BSc Mathematics and Statistics student** at Queen Mary University of London, passionate about exploring the intersection of **finance**, **technology**, and **data science**. I am deeply interested in **Machine Learning (ML)**, **Artificial Intelligence (AI)**, **neural networks**, and **learning algorithms**.
 
 ### 📚 Education
 - **Queen Mary University of London**  
